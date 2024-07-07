@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+    height: 7vh;
+}
+
+.header li:hover {
+    color: #32A7DA;
+}
+
+
+.home {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("../asset/hero-section.jpg") no-repeat center center / cover;
+    object-fit: cover;
+    margin-top: 2px;
+}
+
+.card{
+    height: 500px;
+}
+
+.text-center {
+    text-align: center;
+}
+.about {
+    height: 75vh;
+    background: url("../asset/about.jpeg") no-repeat center / cover;
+    object-fit: cover;
+}
+
+.about hr{
+    color: rgb(41, 41, 193);
+}
+
+footer {
+    background: #97DCFA;
+}

@@ -1,0 +1,27 @@
+.admin-login{
+    height: 100vh;
+    background: #97DCFA;
+}
+
+.side-bar{
+    background: #97DCFA;
+}
+
+.patients{
+    background: #97DCFA;
+}
+
+.tab-content {
+    display: none;
+}
+.tab-content.active {
+    display: block;
+}
+
+.tabs{
+    background: #97DCFA;
+}
+
+.patient-tab{
+    background: #97DCFA;
+}
